@@ -10,7 +10,7 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Synthetic-Image-Generation.git
+git clone https://github.com/anurag740/Synthetic-Image-Generation.git
 cd Synthetic-Image-Generation
 ```
 
